@@ -1,1 +1,2 @@
-# B1B2
+# Professor Prateek sir 
+### Python Programming class lecture
