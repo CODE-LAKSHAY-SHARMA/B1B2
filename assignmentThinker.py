@@ -44,3 +44,11 @@ submit_button = tk.Button(root, text="Submit", command=submit_details)
 submit_button.grid(row=4, column=1, pady=10)
 
 root.mainloop()
+
+
+
+#   cx-freeze
+# pip install pyinstaller
+# pip install pipenv
+# pip install cx-freeze
+
